@@ -1,4 +1,6 @@
 RENCANA BELAJAR NAJWA
 
 -Javascript
+* ES6
+* Frameworks
 -PHP Frameworks
